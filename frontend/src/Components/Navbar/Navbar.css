@@ -13,6 +13,8 @@ nav{
 }
 .hbtuuuu{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 9px;
 }
 .hbtu{
